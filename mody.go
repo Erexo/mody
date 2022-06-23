@@ -1,5 +1,5 @@
 package mody
 
 func Greet() string {
-	return "Hi! v1.3.5"
+	return "Hi! v2.0.0"
 }
